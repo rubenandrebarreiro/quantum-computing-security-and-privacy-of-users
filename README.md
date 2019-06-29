@@ -8,7 +8,7 @@
 
 
 ## Current Status
-[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
+[![contributor for this repository](https://img.shields.io/badge/contributor-bernardo&nbsp;palma&nbsp;albergaria-blue.svg)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/) [![contributor for this repository](https://img.shields.io/badge/contributor-pedro&nbsp;miguel&nbsp;ribeiro-blue.svg)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/) [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![contributor for this repository](https://img.shields.io/badge/contributor-tomas&nbsp;antonio&nbsp;pessanha-blue.svg)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/)  [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
 [![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/)
 
 [![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/)
