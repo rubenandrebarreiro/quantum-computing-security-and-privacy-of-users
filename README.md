@@ -37,4 +37,4 @@
 
 ##### Final Approval Grade of the Project
 
-[![grade of this project](http://progressed.io/bar/0?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/)
+[![grade of this project](http://progressed.io/bar/13?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/)
