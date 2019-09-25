@@ -60,7 +60,7 @@
 
 ### Report
 * [Click here](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/blob/master/paper/resumed/TeX/PDFs/quantum_computing_security_and_privacy_of_users_paper_resumed.pdf) to see the **_Final Paper/Report_** of the project!
-* [Click here](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/blob/master/presentation/resumed/PDFs/quantum_computing_security_and_privacy_of_users_paper_resumed.pdf) to see the **_Final Presentation** of the project!
+* [Click here](https://github.com/rubenandrebarreiro/quantum-computing-security-and-privacy-of-users/blob/master/presentation/resumed/PDFs/quantum_computing_security_and_privacy_of_users_paper_resumed.pdf) to see the **_Final Presentation_** of the project!
 
 ***
 
